@@ -33,7 +33,7 @@ timeline:
     text: "Muhttin dáhpáhusat áiggi čađa"
     section: timeline
     events:
-      - title: "Gergen Ušllus ekonoman"
+      - title: "[Servvodatekonomaoahpu Ušllus](https://no.wikipedia.org/wiki/Cand.oecon.)"
         year: "1985-1991"
         desc: "Candidatus oeconomiae"
         image: assets/img/timeline/1.jpg
