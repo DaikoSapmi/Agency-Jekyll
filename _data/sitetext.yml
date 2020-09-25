@@ -1,7 +1,7 @@
 header:
     title: Bures boahtin!
     text: Somá du oaidnit
-    button: Muittalan ainnas eambo
+    button: Fálan čuovvováččat
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
@@ -23,8 +23,8 @@ services:
         icon: fas fa-biking
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Giisá"
+    text: "Muhttin barggut maid lean jođiihan."
     section: portfolio
     
 
