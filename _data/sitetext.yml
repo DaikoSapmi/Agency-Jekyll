@@ -15,6 +15,9 @@ services:
       - title: "Logaldallamat"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-chalkboard-teacher       
+      - title: "Čilgehusat"
+        desc: "Jos dárbbašat čielggadit juoidá!"
+        icon: fas fa-laptop
       - title: "[Sihkelastin](https://en.wikipedia.org/wiki/Biking)"
         desc: "Jos dušše háliidat **sihkelastit**!"
         icon: fas fa-biking
