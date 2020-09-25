@@ -1,23 +1,23 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Bures boahtin!
+    text: Somá du oaidnit
+    button: Muital eambo
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Bálvalusat"
+    text: "Veahkehan ainnas du dáin surgiin:"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Šiehtadallamat"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-handshake #find more at https://fontawesome.com/icons
+      - title: "Logaldallamat"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-chalkboard-teacher       
+      - title: "[Sihkelastin](https://en.wikipedia.org/wiki/Biking)"
+        desc: "Jos dušše háliidat **sihkelastit**!"
+        icon: fas fa-biking
 
 portfolio:
     title: "Portfolio"
