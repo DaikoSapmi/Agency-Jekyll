@@ -51,10 +51,10 @@ timeline:
         image: assets/img/timeline/3b.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
+      - title: "Jaruma AS"
+        year: "2002-2006"
         desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/4b.png
         alt: 
         align: right
     end: "Be Part <br> of Our <br> Story!"
