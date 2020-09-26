@@ -1,7 +1,7 @@
 #Color Customization
 highlight: "#54bfff"
-white: "#FF0000"
-black: "#000"
+white: "#ac1c11"
+black: "#130101"
 
 #Image Customization
 header-image: "../img/bakgrunn5.jpg"
