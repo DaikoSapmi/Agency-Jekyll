@@ -1,15 +1,15 @@
 ---
 title: WSSD Johannesburg
-subtitle: Jođihin čállinjoavkku go ovttas hápmiimet [Kimberley declaration](https://www.dialoguebetweennations.com/IR/english/KariOcaKimberley/KimberleyDeclaration.htm)
+subtitle: Jođihin čállinjoavkku go ovttas hápmiimet Kimberley deklarašuvnna.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: WSSD 2002
+  subtitle: Kimberley deklarašuvnna
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Ieš [Kimberley declaration](https://www.dialoguebetweennations.com/IR/english/KariOcaKimberley/KimberleyDeclaration.htm) lei boađus min ovdačoahkkimis Kimberleys gos sullii 300 algoalbmotovdasteaddjit čoahkkanedjet. Mu bargu lei jođihit čállinjoavkku gos hápmiimet sisdoallu deklarašuvdnii ja gos maid hápmiimet dat cealkka mii šattai oassin, 25:át gurgalusa, [WSSD váldodeklarašuvnnas](https://www.un.org/esa/sustdev/documents/WSSD_POI_PD/English/POI_PD.htm).
 
 {:.list-inline}
 - Date: January 2017
