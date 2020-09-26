@@ -1,6 +1,6 @@
 ---
 title: WSSD Johannesburg
-subtitle: Chair of the drafting team on the Kimberley declaration
+subtitle: Jođihin čállinjoavkku go ovttas hápmiimet [Kimberley declaration](https://www.dialoguebetweennations.com/IR/english/KariOcaKimberley/KimberleyDeclaration.htm)
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
