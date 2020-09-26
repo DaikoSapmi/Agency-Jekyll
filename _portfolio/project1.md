@@ -1,6 +1,6 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: WSSD Johannesburg
+subtitle: Chair of the drafting team on the Kimberley declaration
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
