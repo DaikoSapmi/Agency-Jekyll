@@ -22,6 +22,12 @@ services:
         desc: "Jos dušše háliidat **sihkelastit**!"
         icon: fas fa-biking
 
+portfolio:
+    title: "Giisá"
+    text: "Muhttin barggut maid lean jođiihan."
+    section: portfolio
+    
+
 timeline:
     title: "Mu birra" 
     text: "Muhttin dáhpáhusat áiggi čađa"
@@ -52,12 +58,6 @@ timeline:
         alt: 
         align: right
     end: "Be Part <br> of Our <br> Story!"
-
-portfolio:
-    title: "Giisá"
-    text: "Muhttin barggut maid lean jođiihan."
-    section: portfolio
-    
 
 about:
     title: "About Us"
