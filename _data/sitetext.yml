@@ -6,26 +6,28 @@ header:
 
 services:
     title: "Bálvalusat"
-    text: "Veahkehan dieđusge du earret eará dáin surgiin:"
+    text: "Veahkehan dieđusge du/din earret eará dáin surgiin:"
     section: services
     list:
       - title: "Šiehtadallamat"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-handshake #find more at https://fontawesome.com/icons
       - title: "Logaldallamat"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Lean alo liikun logaldallat ja lean hápmen muhttin logaldallamiid sámi ja álgoalbmotáššiid birra. Geavahan iežan peršuvnnalaš duogáš/vásáhusaid ja bargohárjjánemiid."
         icon: fas fa-chalkboard-teacher       
       - title: "Čilgehusat"
         desc: "Jos dárbbašat čielggadit juoidá!"
         icon: fas fa-laptop
-      - title: "[Sihkelastin](https://en.wikipedia.org/wiki/Biking)"
+      - title: "[Sihkelastit](https://en.wikipedia.org/wiki/Biking)"
         desc: "Jos dušše háliidat **sihkelastit**!"
         icon: fas fa-biking
 
 portfolio:
     title: "Giisá"
-    text: "Muhttin barggut maid lean jođiihan."
+    text: "Muhttin barggut maid lean jođiihan ja čađahan."
     section: portfolio
+    closebutton: "Gidde"
+
     
 
 timeline:
